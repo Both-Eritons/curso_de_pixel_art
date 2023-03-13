@@ -1,6 +1,3 @@
-# inicio
-este projeto é sobre meu aprendizado sobre pixelart para jogos de um canal no youtube.
-## tipos de arte 2D
-- __pixel art__
-- arte vetoriais
-- pintura digital
+# curso de pixel art
+esse é os projetos que fiz no curso basico de pixel arts.
+> o canal que eu fiz o curso se chama: next indie academy
